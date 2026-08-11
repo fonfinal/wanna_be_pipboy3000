@@ -1,4 +1,0 @@
-# ห้าม commit ไฟล์สำรองข้อมูลส่วนตัวขึ้น repo สาธารณะเด็ดขาด
-nutriboy-backup-*.json
-*backup*.json
-*.bak
